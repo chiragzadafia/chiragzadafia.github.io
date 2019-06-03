@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name":"Chirag Zadafia",
+    "occupation":"Full Stack Software Engineer",
+    "description":"A forward thinking person with excellent communication, analytical & time management skills; exceptionally well organized with a track record that demonstrates self-motivation & creativity to achieve corporate & personal goals",
+    "image":"profilepic.png",
+    "bio":"Young, energetic and result oriented professional with 8+ years of experience in Software Development field; Extended expertise in Microsoft Technologies like Asp.Net, C#, SQL Server & JavaScript Programming frameworks; Deep understanding of technology with focus on delivering business solutions with complete knowledge of SDLC; Adroit at analyzing organization requirements; Highly ethical, trustworthy and discreet; Interested in learning new technologies and tools.",
+    "bio_points": [
+      { "point": "Possessing first rate communication skills and very strong Web Development and RDBMS concepts" },
+      { "point": "Dedicated and highly ambitious to achieve personal goals as well as the organizational goals" },
+      { "point": "Adept at learning new concepts quickly, working well under pressure and communicating ideas clearly and effectively" },
+      { "point": "Ability to build new territories and expand opportunities towards the achievement of stated targets" },
+      { "point": "Excellent decision making skills with a positive approach" },
+      { "point": "Friendly with an upbeat attitude" }
+    ],
+    "contactmessage":"message to readers to have them get in contact with you.",
+    "email": "chirag_zadafia@yahoo.com",
+    "phone": "+91 800-051-2576",
+    "address":{
+      "street":"Utran, Mota Varachha",
+      "city":"Surat",
+      "state":"Gujarat",
+      "zip": "394105"
+    },
+    "website": "",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/chirag.zadafia",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/chiragzadafia",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"#",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://in.linkedin.com/in/chiragzadafia",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"#",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/chiragzadafia",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"#",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My Skill Set ",
+    "education":[
+      {
+        "school":"Veer Narmad South Gujarat University",
+        "degree":"Bachelor in Computer Science & Engineering",
+        "graduated":"May 2010",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Crest Infosystems Pvt. Ltd",
+        "title":"Senior Software Engineer",
+        "years":"January 2017 - Present",
+        "description":""
+      },
+      {
+        "company":"ASK-EHS Engineering & Consultants Pvt. Ltd",
+        "title":"Senior Software Developer",
+        "years":"January 2015 - January 2017",
+        "description":""
+      },
+      {
+        "company":"DRC Techno",
+        "title":"Senior Software Developer",
+        "years":"October 2012 - December 2014",
+        "description":""
+      },
+      {
+        "company":"DRC Systems Pvt. Ltd",
+        "title":"Junior Software Developer",
+        "years":"October 2010 - September 2012",
+        "description":""
+      }
+    ],
+    "skills":[
+      {"name": "Microsoft ASP.NET", "level": "90%"},
+      {"name": "Microsoft ASP.NET MVC", "level": "90%"},
+      {"name": "Linq", "level": "80%"},
+      {"name": "Entity Framework", "level": "70%"},
+      {"name": "Microsoft SQL Server", "level": "70%"},
+      {"name": "C#", "level": "80%"},
+      {"name": "Object Oriented Programming", "level": "80%"},
+      {"name": "REST API", "level": "90%"},
+      {"name": "Web Services", "level": "80%"},
+      {"name": "Javascript", "level": "85%"},
+      { "name":"HTML5", "level":"70%" },
+      {"name": "JQuery", "level": "90%"},
+      {"name": "ReactJS", "level": "80%"},
+      {"name": "AngularJS 1.x", "level": "80%"},
+      { "name":"CSS", "level":"70%" },
+      { "name":"Bootstrap", "level":"70%" },
+      { "name":"Material UI", "level":"80%" },
+      { "name": "Selenium WebDriver", "level": "70%" },
+      { "name":"Git", "level":"75%" }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"title 1",
+        "category":"category 1",
+        "image":"image.jpg",
+        "url":"#"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"testimonial",
+        "user":"from username"
+      }
+    ]
+  }
+}
